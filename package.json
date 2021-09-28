@@ -1,0 +1,15 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "Travail pratique #1, ajout d'un service et d'un client web au service api/bookmarks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Steven Tremblay-Blanchette",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^6.13.2"
+  }
+}
